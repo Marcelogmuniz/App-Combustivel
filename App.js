@@ -42,7 +42,7 @@ export default function App() {
 				</Text>
 			</View>
 			<View>
-			  <Text style={styles.resultado}>Tabela de Comparação:</Text>
+			  <Text style={styles.resultado}>Tabela de Comparação :</Text>
 			  <Text style={styles.textoInput}>0.0 a 0.6 = Abastecer com Álcool</Text>
 			  <Text style={styles.textoInput}>0.7 + = Abastecer com Gasolina</Text>
 			</View>
